@@ -43,7 +43,3 @@ Welcome to the Python development repository using the OpenAI API. Here you will
     ```
     OPENAI_API_KEY=your_api_key_here
     ```
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
