@@ -43,10 +43,6 @@ Welcome to the Python development repository using the OpenAI API. Here you will
     ```
     OPENAI_API_KEY=your_api_key_here
     ```
-4. **Run Examples**:
-    ```sh
-    python examples/basic_usage.py
-    ```
 
 ## License
 
