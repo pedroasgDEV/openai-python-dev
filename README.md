@@ -31,7 +31,7 @@ Welcome to the Python development repository using the OpenAI API. Here you will
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/openai-python-dev.git
+    git clone https://github.com/pedroasgDEV/openai-python-dev.git
     cd openai-python-dev
     ```
 2. **Install Dependencies**:
